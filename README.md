@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning: **The Complete Python Bootcamp From Zero to Hero in Python** by Jose Portilla  
+- 🌱 I’m currently learning: **Data Science**
 - 📫 Reach me at: **doria.feiljasper@gmail.com**  
 - ⚡ Fun fact: **I can speak intermediate Japanese 🇯🇵**
 
