@@ -37,4 +37,9 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 </p>
 
+<!-- Paste this code directly into your profile README.md -->
+[![Your GitHub Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Copy and paste into your profile README.md -->
+![](https://lecoq.io)
 ---
