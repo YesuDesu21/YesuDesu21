@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning: **Data Science**
+- 🌱 I’m currently learning: **AI, Data Science, and Data Analytics**
 - 📫 Reach me at: **doria.feiljasper@gmail.com**  
 - ⚡ Fun fact: **I can speak intermediate Japanese 🇯🇵**
 
